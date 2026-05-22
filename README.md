@@ -53,7 +53,8 @@ devops-portfolio-vaibhav/
 
 ## 📊 Architecture
 
-(Add architecture diagram screenshot here)
+<img width="741" height="61" alt="architecture png drawio" src="https://github.com/user-attachments/assets/2446430c-9968-4ba7-9326-97077736d602" />
+
 
 ---
 
